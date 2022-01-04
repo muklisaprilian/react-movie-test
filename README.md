@@ -10,7 +10,7 @@
 
     `code .`
 
-    `npm i`
+    `npm install`
 
     `npm start`
 
