@@ -4,7 +4,7 @@
 
 # Cara Penginstalan dan Menjalankan Program
 
-    git clone
+    git clone https://github.com/muklisaprilian/react-movie-test.git
 
     cd react-movie-test
 
