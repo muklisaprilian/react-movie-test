@@ -4,15 +4,15 @@
 
 # Cara Penginstalan dan Menjalankan Program
 
-    `git clone `
+    git clone
 
-    `cd react-movie-test`
+    cd react-movie-test
 
-    `code .`
+    code .
 
-    `npm install`
+    npm install
 
-    `npm start`
+    npm start
 
 # Resource
 
@@ -25,3 +25,5 @@
     API: https://www.themoviedb.org/
 
 # Link Demo
+
+    https://react-movie-test.herokuapp.com/
